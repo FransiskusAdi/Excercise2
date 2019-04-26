@@ -1,0 +1,51 @@
+body {
+    background-color: grey;
+}
+
+.nomor, .clear, .tanda, .total {
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+}
+
+.nomor {
+    color: black;
+    background-color: yellow;
+
+}
+
+.tanda {
+    color: black;
+    background-color: orange;
+}
+
+.total {
+    color: black;
+    background-color: green;
+}
+
+.clear {
+    color: black;
+    background-color: brown;
+}
+
+.layar {
+    height: 100px;
+    width: 470px;
+    font-size: 70px;
+}
+
+table {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 15px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+td {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
